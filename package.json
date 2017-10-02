@@ -25,5 +25,9 @@
   "dependencies": {
     "jsonwebtoken": "^8.0.1",
     "lodash.omit": "^4.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wallaroo/koa-jwt-session.git"
   }
 }
