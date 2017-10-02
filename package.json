@@ -1,7 +1,7 @@
 {
-  "name": "koa-jwt-session",
+  "name": "koa-session-jwt",
   "version": "0.1.0",
-  "description": "a middleware that store session data in a jwt token",
+  "description": "a middleware that stores session data in a jwt token",
   "main": "lib/index.js",
   "module": "es/index.js",
   "jsnext:main": "src/index.js",
@@ -28,6 +28,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wallaroo/koa-jwt-session.git"
+    "url": "https://github.com/wallaroo/koa-session-jwt.git"
   }
 }
