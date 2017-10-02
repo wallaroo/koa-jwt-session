@@ -1,0 +1,44 @@
+{
+  "env": {
+    "test": {
+      "presets": [
+        [
+          "env",
+          {
+            "targets": {
+              "node": "current"
+            }
+          }
+        ],
+        "flow"
+      ]
+    },
+    "lib": {
+      "presets": [
+        [
+          "env",
+          {
+            "targets": {
+              "node": "current"
+            }
+          }
+        ],
+        "flow"
+      ]
+    },
+    "es": {
+      "presets": [
+        [
+          "env",
+          {
+            "targets": {
+              "node": "current"
+            },
+            "modules": false
+          }
+        ],
+        "flow"
+      ]
+    }
+  }
+}
